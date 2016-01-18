@@ -1,7 +1,7 @@
-# Knowledge Center Articles
-This is a collection of scripts and code snippets referenced in Knowledge Center Articles published through the Skyscape Portal.
+# Knowledge Centre Articles
+This is a collection of scripts and code snippets referenced in Knowledge Centre Articles published through the Skyscape Portal.
 
-Each sub-directory corresponds to an article published on Skyscape's Knowledge Center. Please see the README.md files in each directory for more information.
+Each sub-directory corresponds to an article published on Skyscape's Knowledge Centre. Please see the README.md files in each directory for more information.
 
 License
 -------
